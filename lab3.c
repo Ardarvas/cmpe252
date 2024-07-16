@@ -107,3 +107,12 @@ int main(void) {
     findAndPrintWinner(skaters, numOfSkaters);
     return 0;
 }
+
+
+//
+// Mari Solev 4 7 5 6 4 5
+// Julya Sone 6 5 6 3 4 6
+// Alexand Tatiay 5 4 6 8 4 5 // text file content 
+// Joan Jung 6 8 5 3 7 4
+// Amy Bell 7 4 5 2 6 4
+//  
